@@ -9,6 +9,7 @@
 | [0042-trapping-rain-water](https://github.com/yindu300-wq/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0056-merge-intervals](https://github.com/yindu300-wq/LeetCode/tree/master/0056-merge-intervals) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yindu300-wq/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/yindu300-wq/LeetCode/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/yindu300-wq/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/yindu300-wq/LeetCode/tree/master/0724-find-pivot-index) |
 ## Two Pointers
@@ -22,6 +23,7 @@
 | ------- |
 | [0015-3sum](https://github.com/yindu300-wq/LeetCode/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/yindu300-wq/LeetCode/tree/master/0056-merge-intervals) |
+| [0169-majority-element](https://github.com/yindu300-wq/LeetCode/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -52,4 +54,16 @@
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/yindu300-wq/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/yindu300-wq/LeetCode/tree/master/0724-find-pivot-index) |
+## Hash Table
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/yindu300-wq/LeetCode/tree/master/0169-majority-element) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/yindu300-wq/LeetCode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/yindu300-wq/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
