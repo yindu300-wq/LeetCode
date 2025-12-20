@@ -17,6 +17,7 @@
 | [2206-divide-array-into-equal-pairs](https://github.com/yindu300-wq/LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/yindu300-wq/LeetCode/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2404-most-frequent-even-element](https://github.com/yindu300-wq/LeetCode/tree/master/2404-most-frequent-even-element) |
+| [2418-sort-the-people](https://github.com/yindu300-wq/LeetCode/tree/master/2418-sort-the-people) |
 ## Two Pointers
 |  |
 | ------- |
@@ -29,6 +30,7 @@
 | [0015-3sum](https://github.com/yindu300-wq/LeetCode/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/yindu300-wq/LeetCode/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/yindu300-wq/LeetCode/tree/master/0169-majority-element) |
+| [2418-sort-the-people](https://github.com/yindu300-wq/LeetCode/tree/master/2418-sort-the-people) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -67,6 +69,7 @@
 | [2206-divide-array-into-equal-pairs](https://github.com/yindu300-wq/LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/yindu300-wq/LeetCode/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2404-most-frequent-even-element](https://github.com/yindu300-wq/LeetCode/tree/master/2404-most-frequent-even-element) |
+| [2418-sort-the-people](https://github.com/yindu300-wq/LeetCode/tree/master/2418-sort-the-people) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -86,4 +89,8 @@
 |  |
 | ------- |
 | [2169-count-operations-to-obtain-zero](https://github.com/yindu300-wq/LeetCode/tree/master/2169-count-operations-to-obtain-zero) |
+## String
+|  |
+| ------- |
+| [2418-sort-the-people](https://github.com/yindu300-wq/LeetCode/tree/master/2418-sort-the-people) |
 <!---LeetCode Topics End-->
