@@ -25,6 +25,7 @@
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/yindu300-wq/LeetCode/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/yindu300-wq/LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/yindu300-wq/LeetCode/tree/master/2210-count-hills-and-valleys-in-an-array) |
+| [2293-min-max-game](https://github.com/yindu300-wq/LeetCode/tree/master/2293-min-max-game) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/yindu300-wq/LeetCode/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/yindu300-wq/LeetCode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2404-most-frequent-even-element](https://github.com/yindu300-wq/LeetCode/tree/master/2404-most-frequent-even-element) |
@@ -119,6 +120,7 @@
 |  |
 | ------- |
 | [2169-count-operations-to-obtain-zero](https://github.com/yindu300-wq/LeetCode/tree/master/2169-count-operations-to-obtain-zero) |
+| [2293-min-max-game](https://github.com/yindu300-wq/LeetCode/tree/master/2293-min-max-game) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/yindu300-wq/LeetCode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## String
 |  |
