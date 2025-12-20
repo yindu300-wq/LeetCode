@@ -9,6 +9,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yindu300-wq/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/yindu300-wq/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0056-merge-intervals](https://github.com/yindu300-wq/LeetCode/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/yindu300-wq/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yindu300-wq/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/yindu300-wq/LeetCode/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/yindu300-wq/LeetCode/tree/master/0238-product-of-array-except-self) |
@@ -31,12 +32,14 @@
 | [0015-3sum](https://github.com/yindu300-wq/LeetCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yindu300-wq/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/yindu300-wq/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0088-merge-sorted-array](https://github.com/yindu300-wq/LeetCode/tree/master/0088-merge-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/yindu300-wq/LeetCode/tree/master/1089-duplicate-zeros) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/yindu300-wq/LeetCode/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/yindu300-wq/LeetCode/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/yindu300-wq/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/yindu300-wq/LeetCode/tree/master/0169-majority-element) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/yindu300-wq/LeetCode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/yindu300-wq/LeetCode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
