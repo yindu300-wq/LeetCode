@@ -45,6 +45,7 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/yindu300-wq/LeetCode/tree/master/0069-sqrtx) |
+| [2169-count-operations-to-obtain-zero](https://github.com/yindu300-wq/LeetCode/tree/master/2169-count-operations-to-obtain-zero) |
 ## Binary Search
 |  |
 | ------- |
@@ -78,4 +79,8 @@
 |  |
 | ------- |
 | [2206-divide-array-into-equal-pairs](https://github.com/yindu300-wq/LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
+## Simulation
+|  |
+| ------- |
+| [2169-count-operations-to-obtain-zero](https://github.com/yindu300-wq/LeetCode/tree/master/2169-count-operations-to-obtain-zero) |
 <!---LeetCode Topics End-->
