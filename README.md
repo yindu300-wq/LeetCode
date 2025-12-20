@@ -13,6 +13,7 @@
 | [0238-product-of-array-except-self](https://github.com/yindu300-wq/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/yindu300-wq/LeetCode/tree/master/0724-find-pivot-index) |
 | [2206-divide-array-into-equal-pairs](https://github.com/yindu300-wq/LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
+| [2341-maximum-number-of-pairs-in-array](https://github.com/yindu300-wq/LeetCode/tree/master/2341-maximum-number-of-pairs-in-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -60,6 +61,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/yindu300-wq/LeetCode/tree/master/0169-majority-element) |
 | [2206-divide-array-into-equal-pairs](https://github.com/yindu300-wq/LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
+| [2341-maximum-number-of-pairs-in-array](https://github.com/yindu300-wq/LeetCode/tree/master/2341-maximum-number-of-pairs-in-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -69,6 +71,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/yindu300-wq/LeetCode/tree/master/0169-majority-element) |
 | [2206-divide-array-into-equal-pairs](https://github.com/yindu300-wq/LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
+| [2341-maximum-number-of-pairs-in-array](https://github.com/yindu300-wq/LeetCode/tree/master/2341-maximum-number-of-pairs-in-array) |
 ## Bit Manipulation
 |  |
 | ------- |
