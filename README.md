@@ -33,6 +33,7 @@
 | [0015-3sum](https://github.com/yindu300-wq/LeetCode/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/yindu300-wq/LeetCode/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/yindu300-wq/LeetCode/tree/master/0169-majority-element) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/yindu300-wq/LeetCode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/yindu300-wq/LeetCode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2418-sort-the-people](https://github.com/yindu300-wq/LeetCode/tree/master/2418-sort-the-people) |
 ## Dynamic Programming
@@ -52,6 +53,7 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/yindu300-wq/LeetCode/tree/master/0069-sqrtx) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/yindu300-wq/LeetCode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2169-count-operations-to-obtain-zero](https://github.com/yindu300-wq/LeetCode/tree/master/2169-count-operations-to-obtain-zero) |
 ## Binary Search
 |  |
@@ -61,6 +63,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/yindu300-wq/LeetCode/tree/master/0011-container-with-most-water) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/yindu300-wq/LeetCode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/yindu300-wq/LeetCode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Prefix Sum
 |  |
