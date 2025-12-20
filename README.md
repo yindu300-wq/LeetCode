@@ -15,6 +15,7 @@
 | [2057-smallest-index-with-equal-value](https://github.com/yindu300-wq/LeetCode/tree/master/2057-smallest-index-with-equal-value) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/yindu300-wq/LeetCode/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/yindu300-wq/LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
+| [2210-count-hills-and-valleys-in-an-array](https://github.com/yindu300-wq/LeetCode/tree/master/2210-count-hills-and-valleys-in-an-array) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/yindu300-wq/LeetCode/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/yindu300-wq/LeetCode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2404-most-frequent-even-element](https://github.com/yindu300-wq/LeetCode/tree/master/2404-most-frequent-even-element) |
