@@ -20,6 +20,7 @@
 | [1089-duplicate-zeros](https://github.com/yindu300-wq/LeetCode/tree/master/1089-duplicate-zeros) |
 | [1732-find-the-highest-altitude](https://github.com/yindu300-wq/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/yindu300-wq/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/yindu300-wq/LeetCode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2057-smallest-index-with-equal-value](https://github.com/yindu300-wq/LeetCode/tree/master/2057-smallest-index-with-equal-value) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/yindu300-wq/LeetCode/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/yindu300-wq/LeetCode/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
@@ -48,6 +49,7 @@
 | [0075-sort-colors](https://github.com/yindu300-wq/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/yindu300-wq/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/yindu300-wq/LeetCode/tree/master/0169-majority-element) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/yindu300-wq/LeetCode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/yindu300-wq/LeetCode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/yindu300-wq/LeetCode/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/yindu300-wq/LeetCode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
@@ -83,6 +85,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/yindu300-wq/LeetCode/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/yindu300-wq/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/yindu300-wq/LeetCode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/yindu300-wq/LeetCode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/yindu300-wq/LeetCode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Prefix Sum
@@ -134,4 +137,8 @@
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/yindu300-wq/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Counting Sort
+|  |
+| ------- |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/yindu300-wq/LeetCode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 <!---LeetCode Topics End-->
