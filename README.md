@@ -128,6 +128,7 @@
 ## String
 |  |
 | ------- |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/yindu300-wq/LeetCode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2315-count-asterisks](https://github.com/yindu300-wq/LeetCode/tree/master/2315-count-asterisks) |
 | [2418-sort-the-people](https://github.com/yindu300-wq/LeetCode/tree/master/2418-sort-the-people) |
 ## Heap (Priority Queue)
