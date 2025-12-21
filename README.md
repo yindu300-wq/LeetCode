@@ -7,6 +7,7 @@
 | [0011-container-with-most-water](https://github.com/yindu300-wq/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/yindu300-wq/LeetCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yindu300-wq/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0041-first-missing-positive](https://github.com/yindu300-wq/LeetCode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/yindu300-wq/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/yindu300-wq/LeetCode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/yindu300-wq/LeetCode/tree/master/0056-merge-intervals) |
@@ -101,6 +102,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/yindu300-wq/LeetCode/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/yindu300-wq/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/yindu300-wq/LeetCode/tree/master/0268-missing-number) |
 | [2206-divide-array-into-equal-pairs](https://github.com/yindu300-wq/LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
