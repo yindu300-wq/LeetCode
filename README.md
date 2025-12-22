@@ -20,6 +20,7 @@
 | [0268-missing-number](https://github.com/yindu300-wq/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/yindu300-wq/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/yindu300-wq/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/yindu300-wq/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/yindu300-wq/LeetCode/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/yindu300-wq/LeetCode/tree/master/0724-find-pivot-index) |
 | [1089-duplicate-zeros](https://github.com/yindu300-wq/LeetCode/tree/master/1089-duplicate-zeros) |
@@ -113,6 +114,7 @@
 | [0169-majority-element](https://github.com/yindu300-wq/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/yindu300-wq/LeetCode/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/yindu300-wq/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/yindu300-wq/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/yindu300-wq/LeetCode/tree/master/0645-set-mismatch) |
 | [2206-divide-array-into-equal-pairs](https://github.com/yindu300-wq/LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/yindu300-wq/LeetCode/tree/master/2341-maximum-number-of-pairs-in-array) |
