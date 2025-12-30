@@ -23,6 +23,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/yindu300-wq/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/yindu300-wq/LeetCode/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/yindu300-wq/LeetCode/tree/master/0724-find-pivot-index) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/yindu300-wq/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1089-duplicate-zeros](https://github.com/yindu300-wq/LeetCode/tree/master/1089-duplicate-zeros) |
 | [1732-find-the-highest-altitude](https://github.com/yindu300-wq/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/yindu300-wq/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -94,6 +95,7 @@
 | [0069-sqrtx](https://github.com/yindu300-wq/LeetCode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/yindu300-wq/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/yindu300-wq/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/yindu300-wq/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Greedy
 |  |
 | ------- |
