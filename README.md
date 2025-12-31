@@ -26,6 +26,7 @@
 | [0645-set-mismatch](https://github.com/yindu300-wq/LeetCode/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/yindu300-wq/LeetCode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/yindu300-wq/LeetCode/tree/master/0724-find-pivot-index) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/yindu300-wq/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/yindu300-wq/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1089-duplicate-zeros](https://github.com/yindu300-wq/LeetCode/tree/master/1089-duplicate-zeros) |
 | [1732-find-the-highest-altitude](https://github.com/yindu300-wq/LeetCode/tree/master/1732-find-the-highest-altitude) |
@@ -101,6 +102,7 @@
 | [0268-missing-number](https://github.com/yindu300-wq/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/yindu300-wq/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/yindu300-wq/LeetCode/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/yindu300-wq/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/yindu300-wq/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Greedy
 |  |
