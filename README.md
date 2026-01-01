@@ -30,6 +30,7 @@
 | [0852-peak-index-in-a-mountain-array](https://github.com/yindu300-wq/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/yindu300-wq/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1089-duplicate-zeros](https://github.com/yindu300-wq/LeetCode/tree/master/1089-duplicate-zeros) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/yindu300-wq/LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1732-find-the-highest-altitude](https://github.com/yindu300-wq/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/yindu300-wq/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/yindu300-wq/LeetCode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
@@ -106,6 +107,7 @@
 | [0704-binary-search](https://github.com/yindu300-wq/LeetCode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/yindu300-wq/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/yindu300-wq/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/yindu300-wq/LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 ## Greedy
 |  |
 | ------- |
